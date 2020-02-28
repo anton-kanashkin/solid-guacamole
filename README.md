@@ -1,1 +1,1 @@
-# improved-guacamole
+# solid-guacamole
